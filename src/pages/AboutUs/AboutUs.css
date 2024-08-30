@@ -1,0 +1,31 @@
+/* explore button*/
+  /* contact us button*/
+  .contact_btn {
+    background-color: #084D85;
+    color: #fff;
+    border-radius: 10em;
+    font-size: 17px;
+    font-weight: 600;
+    padding: 5px 20px;
+    cursor: pointer;
+    transition: all 0.3s ease-in-out;
+    border: 2px solid #000000;
+    box-shadow: 0 0 0 0 black;
+    margin-top: 10px;
+  }
+  
+  .contact_btn:hover {
+    transform: translateY(-4px) translateX(-2px);
+    box-shadow: 2px 5px 0 0 black;
+    color: black;
+    background-color: #ffffff;
+   
+  };
+  
+  .contact_btn:active {
+    transform: translateY(2px) translateX(1px);
+    box-shadow: 0 0 0 0 black;
+  };
+
+ 
+  
