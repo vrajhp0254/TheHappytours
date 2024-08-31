@@ -12,7 +12,7 @@ const AppFooter = () => {
               aria-labelledby="footer-header"
             >
               <div className="pb-8">
-                <img className="w-[60px] h-[60px] " src={logo} alt="Logo" />
+                <img className="w-[250px] h-[160px] " src={logo} alt="Logo" />
               </div>
 
               <p className=" pr-28">
