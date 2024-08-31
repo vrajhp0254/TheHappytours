@@ -50,7 +50,7 @@ const Sidebar = ({ setPage }) => {
 
       {/* Sidebar content */}
       <div className={`md:block ${isOpen ? "block" : "hidden"} md:hidden`}>
-        <div className="p-4 text-2xl pt-[10vh] ">thehappytours</div>
+        <div className="p-4 text-2xl pt-[10vh] ">TheHappytours</div>
         <ul className="">
           <li
             className="px-4 py-2 hover:bg-gray-700 cursor-pointer"
@@ -64,7 +64,7 @@ const Sidebar = ({ setPage }) => {
 
       {/* Sidebar content for desktop */}
       <div className="hidden md:block">
-        <div className="p-4 text-2xl text-center">thehappytours</div>
+        <div className="p-4 text-2xl text-center">TheHappytours</div>
         <ul>
           <li
             className="px-4 py-2 hover:bg-gray-700 cursor-pointer"

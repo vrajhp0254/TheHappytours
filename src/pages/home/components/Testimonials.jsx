@@ -5,7 +5,7 @@ const Testimonials = () => {
     <section className="flex items-center justify-center dest__wrap bg-white min-w-screen mb-20">
       <div className="px-16 bg-white">
         <div className="container flex flex-col items-start mx-auto lg:items-center">
-          <p className="relative flex items-start justify-start w-full text-lg font-bold tracking-wider text-red-700 uppercase lg:justify-center lg:items-center">
+          <p className="relative flex items-start justify-start w-full text-lg font-bold tracking-wider text-orange-700 uppercase lg:justify-center lg:items-center">
             Don't just take our word for it
           </p>
 

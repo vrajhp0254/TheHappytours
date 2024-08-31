@@ -7,7 +7,7 @@ i:hover {
 }
 
 :root {
-  --primary-text-color: #9a9a9a;
+  --primary-text-color: #f5811e;
   --primary-text-color-2: #555555;
 }
 
@@ -59,7 +59,7 @@ i:hover {
   height: 3px;
 }
 .dest-text::after {
-  background-color: #0a4c86;
+  background-color: #2e3095;
 }
 .dest-line::after {
   background-color: #4b4949;
@@ -68,7 +68,7 @@ i:hover {
   background-color: #14b9d5;
 }
 .holiday-text::after {
-  background-color: #e66874;
+  background-color: #f5811e;
 }
 .promotion-text::after {
   background-color: #1bbc9b;
@@ -580,7 +580,7 @@ header {
   left: 0;
   right: 0;
   bottom: 0;
-  background-color: #14b9d5;
+  background-color: #2e3093;
   text-align: center;
   display: flex;
   flex-direction: column;
@@ -611,7 +611,7 @@ header {
 .dest__overlay-btn {
   padding: 3px 23px;
   background-color: #fff;
-  color: #14b9d5;
+  color: #f5811e;
   margin-top: 24px;
   border-radius: 30px;
   text-decoration: none;
@@ -712,7 +712,7 @@ header {
   text-align: center;
 }
 .next-holiday__btn {
-  color: rgba(247, 101, 112, 0.95);
+  color: #f5811e;
   background-color: #fff;
   padding: 8px 40px;
   border-radius: 30px;

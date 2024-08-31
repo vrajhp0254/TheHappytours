@@ -206,7 +206,7 @@ const AppFooter = () => {
           <div className="  flex gap-3">
             <p className="w-full text-center my-4 text-[#0a4c86] flex justify-start ">
               Copyright ©
-              <span className="text-black"> 2024 thehappytours.com</span>
+              <span className="text-black"> 2024 TheHappytours.com</span>
             </p>
 
             <a href="#" className="text-gray-600 hover:text-[#0a4c86] py-3 ">

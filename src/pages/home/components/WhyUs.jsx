@@ -6,13 +6,13 @@ const WhyUs = () => {
       <div className="relative mx-auto w-full text-center">
         <span className="text-black font-bold my-3 flex items-center justify-center text-3xl uppercase tracking-wider">
           Why choose &nbsp;
-          <span className="text-red-700 --title__text-underline dest-line ">
+          <span className="text-orange-700 --title__text-underline dest-line ">
             us ?
           </span>
         </span>
 
         <p className="mx-auto my-4 w-full max-w-xl bg-transparent text-center font-medium leading-relaxed tracking-wide">
-          "Embark on a Journey Beyond Borders with Foreign Yatra"
+          "Embark on a Journey Beyond Borders with The Happy Tours"
         </p>
         <div className="md:flex md:flex-row justify-center items-center gap-3  w-full flex flex-col">
           <div className="flex gap-3 md:w-[50%] w-full h-[30vh] justify-center">
@@ -74,7 +74,7 @@ const WhyUs = () => {
                   viewBox="0 0 24 24"
                   width="48"
                   height="48"
-                  className="fill-red-700"
+                  className="fill-orange-700"
                 >
                   <path d="m12.815,14l.588-3.33q.023-.508,0-.533c-.121-.444-.402-.794-.791-.985-.394-.192-.848-.2-1.281-.02-.254.105-.502.367-.679.712l-2.196,4.155h-2.456c-1.103,0-2,.897-2,2v6c0,1.103.897,2,2,2h12.5l1.509-8.095-.009-1.905h-7.185Zm-7.815,8v-6c0-.551.449-1,1-1h2v8h-2c-.551,0-1-.449-1-1Zm12.67,1h-8.67v-8l2.54-4.694c.094-.184.182-.251.177-.251.164-.068.325-.07.455-.005.1.049.179.135.247.291l-.795,4.659h7.386l.009.815-1.348,7.185ZM9.16,7.638l.618.502,2.221-1.44,2.222,1.44.625-.48-.707-2.365,1.861-1.5v-.795h-2.683l-.92-2.626h-.794l-.92,2.626h-2.683v.795l1.861,1.5-.7,2.343Zm.687-3.638h1.544l.608-1.735.608,1.735h1.544l-1.164.938.449,1.502-1.438-.933-1.438.933.449-1.502-1.164-.938Zm-3.626,7.14l.625-.48-.707-2.365,1.861-1.5v-.795h-2.683l-.92-2.626h-.794l-.92,2.626H0v.795l1.861,1.5-.703,2.352.621.493,2.221-1.44,2.222,1.44ZM1.848,7h1.544l.608-1.735.608,1.735h1.544l-1.164.938.449,1.502-1.438-.933-1.438.933.449-1.502-1.164-.938Zm22.152-1h-2.683l-.92-2.626h-.794l-.92,2.626h-2.683v.795l1.861,1.5-.7,2.341.618.505,2.221-1.44,2.222,1.44.625-.48-.707-2.365,1.861-1.5v-.795Zm-3.011,1.938l.449,1.502-1.438-.933-1.438.933.449-1.502-1.164-.938h1.544l.608-1.735.608,1.735h1.544l-1.164.938Z" />
                 </svg>

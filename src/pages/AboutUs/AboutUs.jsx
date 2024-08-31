@@ -20,7 +20,7 @@ const AboutUs = () => {
                 {" "}
                 Your Passport to Exceptional{" "}
                 <span className="grid justify-center">
-                  journey at thehappytours
+                  journey at TheHappytours
                 </span>
               </h1>
             </div>
@@ -63,13 +63,13 @@ const AboutUs = () => {
           <div className=" w-full mt-5 lg:w-3/5  h-[25rem] lg:h-[18rem] rounded-3xl lg:rounded-tr-3xl lg:rounded-bl-3xl">
             <h1 className="text-3xl  mt-1 font-serif ">About Us</h1>
             <p className=" mt-5 text-left text-xs pr-4">
-              Welcome to thehappytours, your ultimate destination for
+              Welcome to TheHappytours, your ultimate destination for
               unforgettable travel experiences around the globe. At
-              thehappytours, we believe that every journey is an opportunity for
+              TheHappytours, we believe that every journey is an opportunity for
               adventure, exploration, and cultural immersion.
             </p>
             <p className=" mt-2 text-left text-xs pr-4">
-              At thehappytours, we don't just sell trips—we create memories that
+              At TheHappytours, we don't just sell trips—we create memories that
               last a lifetime. Join us on an extraordinary journey and let us
               help you discover the wonders of the world. Your adventure starts
               here.
