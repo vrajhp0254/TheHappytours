@@ -1184,7 +1184,7 @@ header {
   }
 
   .header__logo img {
-    width: 72px;
+    width: 100px;
   }
 
   .theme__img > img {
@@ -1298,7 +1298,7 @@ header {
 
   .header__logo {
     position: absolute;
-    left: 50%;
+    left: 0;
     transform: translateX(-50%);
     margin: 0;
   }
@@ -1426,7 +1426,7 @@ header {
   }
 
   .header__logo img {
-    width: 52px;
+    width: 100px;
   }
 
   .header__menu-icon {
