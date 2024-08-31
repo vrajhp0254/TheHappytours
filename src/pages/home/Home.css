@@ -108,7 +108,7 @@ header {
 }
 
 .header__logo img {
-  width: 64px;
+  width: 164px;
   object-fit: cover;
   object-position: center;
 }
@@ -128,7 +128,7 @@ header {
   letter-spacing: 2px;
   padding: 8px 15px 6px;
   position: relative;
-  @apply hover:border-b-2 border-[#0a4c86] rounded-lg;
+  @apply hover:border-b-2 border-[#0a4c86] ;
 }
 
 .navbar__link:not(:last-child)::after {

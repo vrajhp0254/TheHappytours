@@ -1,4 +1,4 @@
-import logo from "../assets/logo.png";
+import logo from "../assets/logo3.png";
 import { Link } from "react-router-dom";
 
 export function NavbarWithMegaMenu({ DestinationData }) {
@@ -6,18 +6,18 @@ export function NavbarWithMegaMenu({ DestinationData }) {
     <>
       <header className="flex-box sticky top-0 z-10">
         <div className="header__left flex-box ">
-          <Link to="/" className="header__logo flex items-center gap-4">
+          <Link to="/" className="header__logo flex items-center gap-4 transform transition-transform duration-300 hover:scale-110">
             <img src={logo} alt="Logo" />
           </Link>
           {/* <div className="hide-on-desktop">PHONE</div> */}
         </div>
         <ul className="hide-on-tablet-mobile header__navbar pr-[4rem] flex-box gap-5">
-          <li className="navbar__item">
+          <li className="navbar__item transform transition-transform duration-300 hover:scale-110">
             <Link to="/" className="navbar__link ">
               HOME
             </Link>
           </li>
-          <li className="navbar__item ">
+          <li className="navbar__item transform transition-transform duration-300 hover:scale-110">
             <Link to="" className="navbar__link flex items-center">
               PACKAGES
               <svg
@@ -105,12 +105,12 @@ export function NavbarWithMegaMenu({ DestinationData }) {
               </li>
             </ul>
           </li>
-          <li className="navbar__item">
+          <li className="navbar__item transform transition-transform duration-300 hover:scale-110">
             <Link to="aboutus" className="navbar__link">
               ABOUT US
             </Link>
           </li>
-          <li className="navbar__item">
+          <li className="navbar__item transform transition-transform duration-300 hover:scale-110">
             <Link to="contactus" className="navbar__link">
               CONTACT US
             </Link>
