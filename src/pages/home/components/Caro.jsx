@@ -32,31 +32,31 @@ export default function Cato() {
             <li>
               <img
                 src="https://images.unsplash.com/photo-1681217665335-98da0f257c8f?q=80&w=2069&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8dHJhdmVsJTIwaW1hZ2V8ZW58MHx8MHx8fDA%3D"
-                className="w-full max-w-full h-[50vh] lg:h-screen m-auto"
+                className="w-full max-w-full h-[45vh] lg:h-screen m-auto"
               />
             </li>
             <li>
               <img
                 src="https://images.unsplash.com/photo-1551751336-07e038f36886?q=80&w=2069&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8MTF8ODc2ODE2Njh8fGVufDB8fHx8fA%3D%3D"
-                className="w-full max-w-full h-[50vh]  lg:h-screen m-auto"
+                className="w-full max-w-full h-[45vh]  lg:h-screen m-auto"
               />
             </li>
             <li>
               <img
                 src="https://images.unsplash.com/photo-1478562853135-c3c9e3ef7905?q=80&w=2069&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8NnwzNDkzNTN8fGVufDB8fHx8fA%3D%3D"
-                className="w-full max-w-full h-[50vh] lg:h-screen m-auto"
+                className="w-full max-w-full h-[45vh] lg:h-screen m-auto"
               />
             </li>
             <li>
               <img
                 src="https://images.unsplash.com/photo-1524652156139-d4005e60449c?q=80&w=2069&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8NHwzNTg4NjAzfHxlbnwwfHx8fHw%3D"
-                className="w-full max-w-full h-[50vh] lg:h-screen m-auto"
+                className="w-full max-w-full h-[45vh] lg:h-screen m-auto"
               />
             </li>
             <li>
               <img
                 src="https://images.unsplash.com/photo-1656060524540-5dfe46313e70?q=80&w=2069&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTZ8fGFtYXppbmclMjBwbGFjZXN8ZW58MHx8MHx8fDA%3D"
-                className="w-full max-w-full h-[50vh] lg:h-screen m-auto"
+                className="w-full max-w-full h-[45vh] lg:h-screen m-auto"
               />
             </li>
           </ul>
