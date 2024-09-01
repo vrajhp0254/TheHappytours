@@ -12,7 +12,7 @@ const Packages = ({ DestinationData }) => {
       <article className="dest__list">
         {DestinationData.map((item, index) => {
           return (
-            <div className="dest__item-flex " key={index}>
+            <div className="dest__item-flex border- rounded-3xl overflow-hidden" key={index}>
               <div
                 className="dest__item abc dest_bg bg-cover bg-center"
                 style={{
