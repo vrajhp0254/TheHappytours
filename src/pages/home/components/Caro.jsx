@@ -31,32 +31,32 @@ export default function Cato() {
           <ul className="whitespace-no-wrap flex-no-wrap [backface-visibility: hidden] [transform-style: preserve-3d] [touch-action: pan-Y] [will-change: transform] relative flex w-full overflow-hidden p-0">
             <li>
               <img
-                src="https://images.unsplash.com/photo-1503220317375-aaad61436b1b?q=80&w=2069&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
-                className="w-full max-w-full max-h-full m-auto"
+                src="https://images.unsplash.com/photo-1681217665335-98da0f257c8f?q=80&w=2069&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8dHJhdmVsJTIwaW1hZ2V8ZW58MHx8MHx8fDA%3D"
+                className="w-full max-w-full h-screen m-auto"
               />
             </li>
             <li>
               <img
-                src="https://images.unsplash.com/photo-1480497490787-505ec076689f?q=80&w=2069&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
-                className="w-full max-w-full max-h-full m-auto"
+                src="https://images.unsplash.com/photo-1490077476659-095159692ab5?q=80&w=2069&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8MTF8MzU4ODYwM3x8ZW58MHx8fHx8"
+                className="w-full max-w-full h-screen m-auto"
               />
             </li>
             <li>
               <img
-                src="https://images.unsplash.com/photo-1442548520776-20acf66617df?q=80&w=2069&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
-                className="w-full max-w-full max-h-full m-auto"
+                src="https://images.unsplash.com/photo-1712611408114-93578e518108?q=80&w=2069&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTZ8fHRyYXZlbCUyMGltYWdlfGVufDB8fDB8fHww"
+                className="w-full max-w-full h-screen m-auto"
               />
             </li>
             <li>
               <img
-                src="https://images.unsplash.com/photo-1530789253388-582c481c54b0?q=80&w=2069&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
-                className="w-full max-w-full max-h-full m-auto"
+                src="https://images.unsplash.com/photo-1524652156139-d4005e60449c?q=80&w=2069&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8NHwzNTg4NjAzfHxlbnwwfHx8fHw%3D"
+                className="w-full max-w-full h-screen m-auto"
               />
             </li>
             <li>
               <img
-                src="https://images.unsplash.com/photo-1578167635648-df79e1565908?q=80&w=2069&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
-                className="w-full max-w-full max-h-full m-auto"
+                src="https://images.unsplash.com/photo-1656060524540-5dfe46313e70?q=80&w=2069&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTZ8fGFtYXppbmclMjBwbGFjZXN8ZW58MHx8MHx8fDA%3D"
+                className="w-full max-w-full h-screen m-auto"
               />
             </li>
           </ul>

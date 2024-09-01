@@ -25,7 +25,7 @@ const AppFooter = () => {
               aria-labelledby="footer-get-in-touch-5-logo"
             >
               <h3
-                className="mb-6 text-base font-bold text-slate-700"
+                className="mb-6 text-base font-bold text-orange-700"
                 id="footer-get-in-touch-5-logo"
               >
                 Honeymoon Packages
@@ -57,7 +57,7 @@ const AppFooter = () => {
                 </li>
                 <li className="mb-2 leading-6">
                   <a
-                    href="/thailand"
+                    href="javascript:void(0)"
                     className="transition-colors duration-300 hover:text-[#0a4c86] border-b hover:border-[#083d6b] border-transparent"
                   >
                     Thailand
@@ -71,7 +71,7 @@ const AppFooter = () => {
               aria-labelledby="footer-docs-5-logo"
             >
               <h3
-                className="mb-6 text-base font-bold text-slate-700"
+                className="mb-6 text-base font-bold text-orange-700"
                 id="footer-docs-5-logo"
               >
                 International Holidays
@@ -132,7 +132,7 @@ const AppFooter = () => {
               aria-labelledby="footer-about-5-logo"
             >
               <h3
-                className="mb-6 text-base font-bold text-slate-700"
+                className="mb-6 text-base font-bold text-orange-700"
                 id="footer-about-5-logo"
               >
                 Incredible India
@@ -177,7 +177,7 @@ const AppFooter = () => {
               aria-labelledby="footer-product-5-logo"
             >
               <h3
-                className="mb-6 text-base font-bold text-slate-700"
+                className="mb-6 text-base font-bold text-orange-700"
                 id="footer-product-5-logo"
               >
                 Product

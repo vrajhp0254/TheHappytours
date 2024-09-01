@@ -20,7 +20,7 @@ const Home = ({DestinationData}) => {
             </span>
           </p>
         </div>
-        <div className="next-holiday__btn-wrap">
+        <div className="next-holiday__btn-wrap transform transition-transform duration-300 hover:scale-110">
           <a href="" className="next-holiday__btn">
             VIEW ALL PACKAGES
           </a>
@@ -40,8 +40,8 @@ const Home = ({DestinationData}) => {
             "We are here to help you with all your travel needs. Please feel
             free to get in touch with us."
           </p>
-          <div className="text-center py-3">
-            <a href="/contactus" className="next-holiday__btn mb-7">
+          <div className="text-center py-3 transform transition-transform duration-300 hover:scale-110">
+            <a href="/contactus" className="next-holiday__btn mb-7 ">
               Get in touch
             </a>
           </div>

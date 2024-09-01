@@ -580,7 +580,7 @@ header {
   left: 0;
   right: 0;
   bottom: 0;
-  background-color: #2e3093;
+  background-color: #2897ec;
   text-align: center;
   display: flex;
   flex-direction: column;
@@ -687,7 +687,7 @@ header {
   height: 204px;
   width: 100%;
   background: no-repeat center / cover
-    url(https://leloc90.github.io/loveTravel/assets/images/parallax-search-2.jpg);
+    url(https://media.istockphoto.com/id/959149062/photo/new-york-cab-on-a-bridge.jpg?s=2048x2048&w=is&k=20&c=24gaEmPuY7kcxyH7h1eKWgoUSo5mC2uVIGyd1Jbhybc=);
   display: flex;
   justify-content: center;
   align-items: center;
@@ -937,12 +937,12 @@ header {
 
 .discover__img-1 {
   background: no-repeat center / cover
-    url(https://i.pinimg.com/564x/d6/62/c1/d662c1c1725a7d182c1712d9f1ee106c.jpg);
+    url(https://images.unsplash.com/photo-1536698988377-ecd14e62f884?q=80&w=2069&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8N3x8cm9hZHMlMjBvciUyMGJyaWRnZSUyMGZvciUyMHRyYXZlbHxlbnwwfHwwfHx8MA%3D%3D);
 }
 
 .discover__img-2 {
   background: no-repeat center / cover
-    url(https://i.pinimg.com/564x/ac/e5/ed/ace5ed785beb820ccbf5f202bf5bf3f7.jpg);
+    url(https://leloc90.github.io/loveTravel/assets/images/parallax-4.jpg);
 }
 
 .discover__item {
@@ -1184,7 +1184,7 @@ header {
   }
 
   .header__logo img {
-    width: 100px;
+    width: 150px;
   }
 
   .theme__img > img {
@@ -1298,7 +1298,7 @@ header {
 
   .header__logo {
     position: absolute;
-    left: 0;
+    left: 40%;
     transform: translateX(-50%);
     margin: 0;
   }
@@ -1426,7 +1426,7 @@ header {
   }
 
   .header__logo img {
-    width: 100px;
+    width: 120px;
   }
 
   .header__menu-icon {

@@ -12,7 +12,7 @@ const Packages = ({ DestinationData }) => {
       <article className="dest__list">
         {DestinationData.map((item, index) => {
           return (
-            <div className="dest__item-flex" key={index}>
+            <div className="dest__item-flex " key={index}>
               <div
                 className="dest__item abc dest_bg bg-cover bg-center"
                 style={{
@@ -27,7 +27,7 @@ const Packages = ({ DestinationData }) => {
                 </div>
                 {item.CountryPackages.length != 0 ? (
                   <div className="dest__overlay">
-                    <ul className="dest__overlay-list">
+                    <ul className="dest__overlay-list transform transition-transform duration-300 hover:scale-110">
                       <Link to={item.path} className="dest__overlay-btn">
                         VIEW DESTINATION
                       </Link>
